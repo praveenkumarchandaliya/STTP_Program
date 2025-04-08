@@ -29,6 +29,7 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 <h1>Explainable AI and Transformer.</h1>
 <href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
 
+<h1> Face Age Progression and Regression</h1>
 @inproceedings{PraveenICD2022,
   title={ChildGAN: Face aging and rejuvenation to find missing children},
   author={Praveen Kumar Chandaliya, Neeta Nain},
