@@ -25,6 +25,6 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 -(Optional) TensorBoard for visualization
 
 <h1>Other Resource</h1>
-- <href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
+<href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
 <h1>Explainable AI and Transformer.</h1>
 <href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
