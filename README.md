@@ -28,3 +28,41 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 <href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
 <h1>Explainable AI and Transformer.</h1>
 <href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
+
+@inproceedings{PraveenICD2022,
+  title={ChildGAN: Face aging and rejuvenation to find missing children},
+  author={Praveen Kumar Chandaliya, Neeta Nain},
+  booktitle={Pattern Recognition},
+  year={2022},
+  volume = {129},
+  pages = {108761}
+}
+@inproceedings{PraveenICD2022,
+  title={Conditional Perceptual Adversarial Variational Autoencoder for Age Progression and Regression on Child Face},
+  author={Praveen Kumar Chandaliya, Neeta Nain},
+  booktitle={International Conference on Biometrics (ICB)},
+  year={2019},
+  pages = {1-8}
+}
+
+@inproceedings{PraveenSAMSP2021,
+  title={Child Face Age Progression and Regression using Multi-Scale Patch GAN},
+  author={Praveen Kumar Chandaliya, Neeta Nain},
+  booktitle={International Joint Conference on Biometrics (IJCB)},
+  year={2021},
+  pages = {1-8}
+}
+
+
+
+@inproceedings{AWGAN2022,
+  title={AWGAN: Face Age Progression and Regression using Attention},
+  author={Praveen Kumar Chandaliya, Neeta Nain},
+  booktitle={Neural Computing and Applications},
+  year={2022},
+  volume = {34},
+  pages = {1-16}
+}
+
+ 
+
