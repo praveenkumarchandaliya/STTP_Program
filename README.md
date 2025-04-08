@@ -30,6 +30,7 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 <href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
 
 <h1> Face Age Progression and Regression</h1>
+
 @inproceedings{PraveenICD2022,
   title={ChildGAN: Face aging and rejuvenation to find missing children},
   author={Praveen Kumar Chandaliya, Neeta Nain},
@@ -38,6 +39,7 @@ This repository contains implementations of Generative Adversarial Networks (GAN
   volume = {129},
   pages = {108761}
 }
+
 @inproceedings{PraveenICD2022,
   title={Conditional Perceptual Adversarial Variational Autoencoder for Age Progression and Regression on Child Face},
   author={Praveen Kumar Chandaliya, Neeta Nain},
@@ -53,7 +55,6 @@ This repository contains implementations of Generative Adversarial Networks (GAN
   year={2021},
   pages = {1-8}
 }
-
 
 
 @inproceedings{AWGAN2022,
