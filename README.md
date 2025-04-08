@@ -27,3 +27,4 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 Other Resource
 - <href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
 - <h1>Explainable AI and Transformer.</h1>
+<href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
