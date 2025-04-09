@@ -1,4 +1,4 @@
-# Student and Faculty Training Program
+# Explainable AI and LIME
 
 - Explainable AI and LIME: Making Machine Learning Models Interpretable
 What is Explainable AI (XAI)?
