@@ -25,3 +25,15 @@ Model-Agnostic: Works with any machine learning model (neural networks, random f
 Local Fidelity: The explanation is faithful to the model's behavior in the vicinity of the instance being predicted
 
 Interpretable Explanations: Presents explanations in terms of interpretable components (like important words in text or regions in an image)
+
+
+- Example Use Cases
+Text Classification: Explaining why a document was classified as "spam" by highlighting the most influential words
+
+- Image Recognition: Showing which parts of an image contributed most to a classification decision
+
+- Credit Scoring: Explaining which factors most influenced a loan denial decision
+
+- Limitations of LIME
+Explanations are approximate, not exact The quality depends on the choice of perturbation and interpretable model Can be computationally expensive for large datasets
+May produce unstable explanations (different runs may give slightly different results) LIME represents an important step toward making complex AI systems more transparent and accountable, though it's just one of many approaches in the growing field of explainable AI.
