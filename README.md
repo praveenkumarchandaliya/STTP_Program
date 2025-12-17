@@ -1,5 +1,5 @@
 
-# Faculty and Student Training Programs @ NIT Warangal, NIT Nagpur, LNMITT Jaipur, SVNIT Surat
+# Faculty and Student Training Programs @ NIT Warangal, NIT Nagpur, LNMITT Jaipur, SVNIT Surat, PP Savani University surat
 
 # GAN Network and Variants Implementation using PyTorch
 Overview
