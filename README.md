@@ -1,5 +1,5 @@
 
-# Faculty and Student Training Programs @ NIT Warangal, NIT Nagpur, LNMITT Jaipur, SVNIT Surat, PP Savani University surat
+# Faculty and Student Training Programs @ NIT Warangal, NIT Nagpur, NIT Hamirpur, LNMITT Jaipur, SVNIT Surat, PP Savani University surat
 
 # GAN Network and Variants Implementation using PyTorch
 Overview
@@ -26,6 +26,7 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 
 <h1>Other Resource</h1>
 <href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
+
 <h1>Explainable AI and Transformer.</h1>
 <href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
 
@@ -67,4 +68,3 @@ This repository contains implementations of Generative Adversarial Networks (GAN
 }
 
  
-
