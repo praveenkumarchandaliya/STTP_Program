@@ -51,18 +51,12 @@ Ensure you have Python 3.7+ and the following dependencies installed:
 * tqdm (for progress bars)
 * TensorBoard (Optional, for training visualization)
 
-### Installation
+## Installation
+
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 pip install -r requirements.txt
-
-<h1>Other Resource</h1>
-<href> https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1</href>
-
-<h1>Explainable AI and Transformer.</h1>
-<href>https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1</href>
-
 
 ## 📖 External Resources & Talks
 
