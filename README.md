@@ -62,6 +62,7 @@ pip install -r requirements.txt
 
 For more insights on advanced deep learning topics, explore the official portfolios below:
 
+* **Google Scholar Profile:** [‪Praveen Kumar Chandaliya‬ on Google Scholar](https://scholar.google.com/citations?user=cx-vENIAAAAJ&hl=en)
 * **About the Author:** [Dr. Praveen Kumar Chandaliya Portfolio](https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/about?authuser=1)
 * **Invited Talks & Seminars:** [Explainable AI, Transformers, and Deep Learning Talks](https://sites.google.com/aid.svnit.ac.in/drpraveenkumarchandaliya/talks?authuser=1)
 
